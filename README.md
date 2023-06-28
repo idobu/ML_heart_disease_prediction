@@ -6,3 +6,5 @@ ML project using JS, Python and HTML to create a prediction machine the base on 
 Front: HTML+JS
 Back: Python (flask)
 ML: Python script using sklearn + MLPClassefier (Neural Networks)
+
+Trained data: collected and cleaned from health surveys in the US.
